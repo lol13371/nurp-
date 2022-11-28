@@ -222,7 +222,7 @@
               if (smooth_amount < amount) {
                 smooth_amount = smooth_amount + ((amount - smooth_amount)/(20 - counter))
               }
-              // Display the result in the element with id="demo" children: “29 NOV 12:00H”
+              // Display the result in the element with children: “29 NOV 12:00H”
               document.getElementById("nft_left").innerHTML = smooth_amount.toFixed(0);
               // If the count down is finished, write some text
             }, 100);
