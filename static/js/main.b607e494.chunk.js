@@ -661,8 +661,8 @@
                                             className: "mint-live text-shadow",
                                             children: ["ENDS IN ", Object(N.jsx)("span", {
                                                 className: "text-primary",
-                                                id: "demo",
-                                                children: ""
+                                                
+                                                children: "29 NOV 12:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
